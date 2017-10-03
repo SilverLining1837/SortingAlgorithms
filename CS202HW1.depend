@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1443877619 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\bubblesort.cpp
+	"BubbleSort.h"
+	<algorithm>
+
+1443877573 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\bubblesort.h
+
+1443877644 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\insertionsort.cpp
+	"InsertionSort.h"
+
+1443877633 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\insertionsort.h
+
+1444475644 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\selectionsort.cpp
+	"SelectionSort.h"
+	<algorithm>
+
+1444475621 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\selectionsort.h
+
+1444475609 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\mergesort.cpp
+	"MergeSort.h"
+
+1444475609 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\mergesort.h
+
+1444475580 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\quicksort.cpp
+	"QuickSort.h"
+	<algorithm>
+
+1444475028 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\quicksort.h
+
+1445011020 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\main.cpp
+	"Main.h"
+	"Sorting.h"
+	"time.h"
+	<stdlib.h>
+	<iostream>
+
+1444474388 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\main.h
+
+1443885276 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\findmin.cpp
+	"findMin.h"
+	<iostream>
+
+1443884788 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\findmin.h
+
+1445010585 source:c:\users\evren\desktop\cs201homeworks\cs202hw1\src\sorting.cpp
+	"sorting.h"
+	<algorithm>
+	<iostream>
+
+1445010501 c:\users\evren\desktop\cs201homeworks\cs202hw1\include\sorting.h
+
